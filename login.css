@@ -1,0 +1,131 @@
+/* Romario Bennett
+620110226
+*/
+
+
+/*Entire Page*/
+html, body
+{
+   padding: 0px;    
+   margin: 0px;
+   font-family: Tahoma, sans-serif;
+   font-size: 13px;
+}
+
+
+/*Form*/
+
+
+#FormHeader
+{
+    padding-bottom: 2px;
+    margin: 40px 0 20px;
+    border-bottom: 1px solid #eee;
+}
+
+
+
+#MainForm 
+{
+   width: 40%;
+   margin: auto;
+   margin-top: 2%;
+}
+
+#SubSpace 
+{
+    text-align: center;
+    margin-top: 10px;
+}
+
+#SubBtn {
+	box-shadow: 0px 1px 0px 0px #1c1b18;
+	background:linear-gradient(to bottom, #eae0c2 5%, #ccc2a6 100%);
+	background-color:#eae0c2;
+	border-radius:15px;
+	border:2px solid #333029;
+	display:inline-block;
+	cursor:pointer;
+	color:#505739;
+	font-family:Arial;
+	font-size:14px;
+	font-weight:bold;
+	padding:12px 16px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #ffffff;
+}
+#SubBtn:hover {
+	background:linear-gradient(to bottom, #ccc2a6 5%, #eae0c2 100%);
+	background-color:#ccc2a6;
+}
+#SubBtn:active {
+	position:relative;
+	top:1px;
+}
+
+.TextInput
+{
+    display: block;
+    width: 100%;
+    height: 20px;
+    padding: 6px 12px;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #555;
+    background-color: #fff;
+    background-image: none;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-bottom: 10px;
+    
+}
+
+label
+{
+    display: inline-block;
+    max-width: 100%;
+    margin-bottom: 5px;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+
+
+.Invalid {
+   background-color: red;
+    display: block;
+    width: 100%;
+    height: 20px;
+    padding: 6px 12px;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #555;
+    background-color: red;
+    background-image: none;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-bottom: 10px;
+}
+
+.Valid {
+    color: #fff;
+    display: block;
+    width: 100%;
+    height: 20px;
+    padding: 6px 12px;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #555;
+    background-color: #337ab7;
+    background-image: none;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-bottom: 10px;
+}
+
+body{ #C4E1FF;
+
+background: -webkit-linear-gradient(bottom, #C4E1FF, #9691E5);
+background: -moz-linear-gradient(bottom, #C4E1FF, #9691E5);
+background: linear-gradient(to top, #C4E1FF, #9691E5);
+}
