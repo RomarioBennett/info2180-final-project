@@ -12,7 +12,7 @@ Group Members:
 TaiVaugn White
 Romario Bennett
 Jodianne Deer
-DOmonique Eccleston
+Domonique Eccleston
 =======
 # info2180-final-project
 Final Project For Info2180
