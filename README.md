@@ -9,7 +9,7 @@
 
 Group Members:
 
-TaiVaugn White
+TaiVaughn White
 Romario Bennett
 Jodianne Deer
 Domonique Eccleston
